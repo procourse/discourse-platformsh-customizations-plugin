@@ -1,0 +1,4 @@
+plugins:
+  platformsh_customizations_enabled:
+    default: false
+    client: true
