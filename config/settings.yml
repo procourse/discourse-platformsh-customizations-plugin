@@ -2,3 +2,15 @@ plugins:
   platformsh_customizations_enabled:
     default: false
     client: true
+  platformsh_support_url:
+    default: "https://accounts.platform.sh/support" 
+    client: true
+  platformsh_user_url:
+    default: "https://accounts.platform.sh/user" 
+    client: true
+  platformsh_billing_url:
+    default: "https://accounts.platform.sh/user/orders" 
+    client: true
+  platformsh_logout_redirect_url:
+    default: "https://accounts.platform.sh/user/logout" 
+    client: false

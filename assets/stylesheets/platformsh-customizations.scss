@@ -1,8 +1,6 @@
-// User Menu
-.d-header .current-user .avatar {
-    border-radius: 5px;
-}
-.user-menu .menu-panel {
-    border-radius: 5px;
-    right: 0px;
+// User Menu Links
+
+.user-menu .platformsh-links {
+    text-align: right;
+    li { display: inline-block; }
 }

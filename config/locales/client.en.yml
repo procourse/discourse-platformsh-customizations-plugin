@@ -1,3 +1,6 @@
 en:
   js:
     platformsh_customizations:
+      support: "Support"
+      user: "User"
+      billing: "Billing"
