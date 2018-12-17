@@ -8,5 +8,5 @@ enabled_site_setting :platformsh_customizations_enabled
 register_asset 'stylesheets/platformsh-customizations.scss'
 
 after_initialize do 
-    SiteSetting.logout_redirect = SiteSetting.platformsh_logout_redirect_url
+    SiteSetting.logout_redirect = 'https://accounts.platform.sh/user/logout'
 end
