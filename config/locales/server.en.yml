@@ -1,3 +1,6 @@
 en:
   site_settings: 
     platformsh_customizations_enabled: 'Enable the Platform.sh Customizations plugin.'
+    platformsh_support_url: "URL for Platform.sh Support Page"
+    platformsh_user_url: "URL for Platform.sh User Page"
+    platformsh_billing_url: "URL for Platform.sh Billing Page"
